@@ -166,7 +166,7 @@ const About = () => {
     <p>LinkedIn: Induj Tyagi</p>
     <p>
       CV: <a 
-        href="/static/Tech_Based CV.pdf" 
+        href="portfolio/static/Tech_Based_CV.pdf" 
         target="_blank" 
         rel="noopener noreferrer"
         className="text-blue-600 hover:text-blue-800 underline"

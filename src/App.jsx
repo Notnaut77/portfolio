@@ -293,7 +293,7 @@ const Blog = ({ setCurrentPage, setSelectedPost }) => {
   const blogPosts = [
     {
       title: "On Privacy-Preserving Machine Learning",
-      date: "2025-05-15",
+      date: "2025-07-12",
       excerpt: "Exploring the intersection of differential privacy and federated learning in the context of sensitive healthcare data. How can we extract meaningful insights while maintaining individual privacy?",
       slug: "privacy-preserving-ml",
       tags: ["Privacy", "Machine Learning", "Cryptography"],
@@ -311,7 +311,7 @@ As I've been working on privacy-preserving blockchain systems, I've come to appr
     },
     {
       title: "Zero-Knowledge Proofs: A Philosophical Perspective",
-      date: "2025-05-28",
+      date: "2025-07-07",
       excerpt: "Beyond the technical mechanics, what do zero-knowledge proofs tell us about the nature of knowledge itself? An exploration of cryptographic protocols through the lens of epistemology.",
       slug: "zk-proofs-philosophy",
       tags: ["Zero-Knowledge", "Philosophy", "Cryptography"],
@@ -337,7 +337,7 @@ This has applications far beyond cryptography. In a world where privacy is incre
     },
     {
       title: "The Economics of Decentralized Systems",
-      date: "2025-06-10",
+      date: "2025-07-01",
       excerpt: "How do incentive structures in blockchain networks align with traditional economic theory? A deep dive into mechanism design in distributed systems.",
       slug: "economics-decentralized-systems",
       tags: ["Blockchain", "Economics", "Game Theory"],
@@ -369,7 +369,7 @@ The challenge moving forward will be to design these systems to be not just tech
     },
     {
       title: "Thoughts on AI Alignment in Financial Markets",
-      date: "2024-06-22",
+      date: "2025-06-28",
       excerpt: "Building the Aistox platform raised interesting questions about AI decision-making in financial contexts. How do we ensure our models are aligned with human values?",
       slug: "ai-alignment-finance",
       tags: ["AI Alignment", "Finance", "Ethics"],
@@ -534,7 +534,7 @@ const App = () => {
       <footer className="border-t border-gray-200 mt-16">
         <div className="max-w-4xl mx-auto px-6 py-8">
           <div className="text-center text-gray-600 font-mono text-sm">
-            <p>© 2024 Induj Tyagi. Built with React and a love for clean design.</p>
+            <p>© 2025 Induj Tyagi. Built with React and a love for clean design.</p>
           </div>
         </div>
       </footer>

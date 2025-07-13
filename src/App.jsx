@@ -162,7 +162,6 @@ const About = () => {
   <h2 className="text-2xl font-serif font-light text-gray-900 mb-6">Contact</h2>
   <div className="font-mono text-gray-600 space-y-2">
     <p>Email: indujtyagi@gmail.com</p>
-    <p>Website: induj.in</p>
     <p>GitHub: @Notnaut77</p>
     <p>LinkedIn: Induj Tyagi</p>
     <p>

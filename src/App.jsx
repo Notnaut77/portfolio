@@ -82,9 +82,11 @@ const Home = () => {
           <div className="space-y-4">
             <div className="border-l-4 border-blue-500 pl-4">
               <h3 className="font-mono text-gray-900 font-medium">Aistox: AI-Driven Stock Prediction</h3>
-              <p className="text-gray-600 font-serif">
-                An ensemble pipeline integrating financial fundamentals with real-time sentiment analysis, 
-                achieving 81.7% directional accuracy across 500+ equities.
+              <p className="text-gray-600 font-serif" >
+                <a href="https://github.com/Notnaut77/Aistox-Sentiment-Aware-Stock-Market-Analysis-Platform.git" target="_blank" rel="noopener noreferrer">
+                  An ensemble pipeline integrating financial fundamentals with real-time sentiment analysis,
+                  achieving 81.7% directional accuracy across 500+ equities.
+                </a>
               </p>
             </div>
             <div className="border-l-4 border-green-500 pl-4">

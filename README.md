@@ -1,7 +1,11 @@
-Hey, I’m Induj
+# Hey, I’m Induj
+
 This is my portfolio.
 
-Check it out yourlinkhere.com
-or don’t. idk. live your life.
+Built with React, Tailwind, and vibes.
 
-That’s it. peace
+Check it out  [https://induj.vercel.app/](https://induj.vercel.app/)  
+Or don’t. Live your life.
+
+
+That’s it. Peace.

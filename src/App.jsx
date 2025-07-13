@@ -165,15 +165,16 @@ const About = () => {
     <p>GitHub: @Notnaut77</p>
     <p>LinkedIn: Induj Tyagi</p>
     <p>
-      CV: <a 
-        href="portfolio/public/Tech_Based_CV.pdf" 
-        target="_blank" 
-        rel="noopener noreferrer"
-        className="text-blue-600 hover:text-blue-800 underline"
-      >
-        Download CV
-      </a>
-    </p>
+  CV: <a 
+    href="/Tech_Based_CV.pdf" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="text-blue-600 hover:text-blue-800 underline"
+  >
+    Download CV
+  </a>
+</p>
+
   </div>
 </div>
       </div>
